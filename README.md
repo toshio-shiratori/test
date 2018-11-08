@@ -18,6 +18,8 @@ now on test!!
 10st try failed.  
 11st try success.  
 12st try failed.  
+13st try failed.  
 
 # failed reason
 secret token is too long.
+getenv issue?
