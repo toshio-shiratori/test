@@ -12,6 +12,7 @@ now on test!!
 4st try failed.  
 5st try success.  
 6st try failed.  
+7st try failed.  
 
 # failed reason
 secret token is too long.
